@@ -1,0 +1,25 @@
+.profile {
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+.name {
+  font-size: 24px;
+  text-align: center;
+}
+
+.job {
+  font-size: 18px;
+  text-align: center;
+}
+
+.produce {
+  width: 400px;
+  height: 150px;
+  background-color: powderblue;
+  border-radius: 24px;
+  padding: 20px;
+  margin: auto;
+  line-height: 40px;
+}
