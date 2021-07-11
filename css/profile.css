@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans KR", sans-serif;
+}
+
+.img1 {
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 30px auto;
+  border-radius: 50%;
+}
+
+.para {
+  text-align: center;
+}
+
+.para > h4 {
+  font-size: 40px;
+}
+
+.para .des {
+  font-size: 24px;
+  margin: 15px 0;
+}
+
+.box {
+  width: 350px;
+  height: 100px;
+  background-color: tomato;
+  padding: 14px;
+  text-align: center;
+  margin: 0 auto;
+  color: #fff;
+}
