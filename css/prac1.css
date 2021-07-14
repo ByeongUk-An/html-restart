@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  background-color: #c5c8cc;
+  width: 1200px;
+  padding: 30px;
+  height: 360px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.wrapper .textcontainer {
+}
+.wrapper .textcontainer .profile {
+  overflow: hidden;
+}
+.wrapper .textcontainer .profile .profilewrap {
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-right: 10px;
+}
+.wrapper .textcontainer .profile .profilewrap .profileimg {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.wrapper .textcontainer .profile .profiletext {
+  float: left;
+}
+.wrapper .textcontainer .profile .profiletext2 {
+}
+.profilehead {
+  margin: 30px 0;
+}
+.wrapper .textcontainer {
+  width: 700px;
+  height: 300px;
+  float: left;
+}
+.wrapper .imgbox {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+.wrapper .imgbox img {
+  width: 100%;
+  height: 300px;
+}
