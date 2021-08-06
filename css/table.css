@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cart-background {
+  width: 100%;
+  padding: 20px;
+  background-color: #c2d3de;
+}
+
+.cart-form-container {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.cart-table {
+  background-color: #fff;
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 4px;
+}
+
+.cart-table td,
+.cart-table th {
+  border-bottom: 1px solid #c2d3de;
+  padding: 12px;
+}
+
+.cart-img {
+  width: 100px;
+}
+
+.cart-item {
+  width: 40%;
+}
+
+.cart-totla-colspan {
+  text-align: right;
+  padding-right: 20px;
+}
