@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 9;
+  box-sizing: border-box;
+}
+
+.cart-background {
+  width: 100%;
+  background-color: #c2d3de;
+  padding: 40px;
+}
+
+.cart-background > h3 {
+  color: tomato;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.table-cart {
+  border-collapse: collapse;
+  background-color: #fff;
+}
+
+.table-item {
+  width: 40%;
+}
+
+.table-cart th,
+.table-cart td {
+  padding: 15px;
+  border-bottom: 1px solid #c2d3de;
+}
+
+.table-total {
+  text-align: right;
+}
+
+.table-img {
+  width: 100px;
+}
