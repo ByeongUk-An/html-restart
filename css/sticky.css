@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 9;
+  box-sizing: border-box;
+}
+body {
+  background-color: black;
+}
+
+.grey {
+  background-color: gray;
+  height: 2000px;
+  margin-top: 600px;
+  margin-bottom: 1000px;
+  position: relative;
+}
+
+.left-text {
+  color: white;
+  float: left;
+  width: 500px;
+}
+
+.sticky {
+  float: right;
+  position: sticky;
+  top: 100px;
+}
